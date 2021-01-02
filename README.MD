@@ -1,5 +1,7 @@
 # Usefull JS Articles & Videos
 
+### JS Fundamentals
+
 ### JS Algorithm
 
 <a href="https://github.com/yogain123/AlgoCasts-JS">Algo Cast</a>
